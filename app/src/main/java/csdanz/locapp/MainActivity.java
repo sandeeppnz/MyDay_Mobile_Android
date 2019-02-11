@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity
     private ProximiioAPI proximiioAPI;
     private ProximiioMapHelper mapHelper;
     private static final String APP_TAG = "CSDA";
-    public static final String AUTH_PROXIMI = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6ImY1ZDY3M2EwLWM3NjMtNGZjYi1hYjU1LWM1Nzg2ZTU2NmVhOSIsInR5cGUiOiJhcHBsaWNhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiZTYwMjQ1ZjUtMDgwYi00YTI1LWJlZTItNTY3MzY3ZDM4MjA2In0.rfayawnBYYVBa_UZvuX4Noa-pbDcKDgV3Sgi-qEl5qs";
+    public static final String AUTH_PROXIMI = "";
 
     private TextView UserName;
     private TextView txtUsernameMain, txtEmailMain;

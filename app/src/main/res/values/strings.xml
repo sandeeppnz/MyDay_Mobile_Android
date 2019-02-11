@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyDay - CSDA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_spalsh">Spalsh</string>
+    <string name="title_activity_page1">Consent</string>
+
+    <string name="page1_textbox">
+
+
+        <![CDATA[
+        <b> Project title:</b>
+        <br> Measuring the experienced wellbeing of employees: A study of time and space use
+        <br>
+        <br> <b>Researcher/supervisor: </b>
+        <br> Prof Rhema Vaithianathan, Auckland University of Technology
+        <br>
+        <br> <b>Participant declaration:</b>
+        <br>
+        <br> I understand that participation is voluntary and refusal to participate will involve no penalty.
+        <br>
+        <br> I may withdraw from the study at any time without being disadvantaged in any way.
+        <br>
+        <br> If I withdraw from the study then I will be offered the choice between having any data that is identifiable as belonging to me removed or allowing it to continue to be used.
+        <br>
+        <br> However, once the findings have been produced, removal of my data may not be possible.
+        <br>
+        <br> I understand that my decision to participate or withdraw from this study will not be known by my employer and therefore will have no adverse effect on my status at or future relations with my employer, Warren and Mahoney.
+        <br>
+        <br> I understand that only aggregate data will be shared with my employer.
+
+        ]]>
+
+
+    </string>
+    <string name="title_activity_page2">Accept</string>
+    <string name="page2_textbox">Accept</string>
+
+    <string name="term_1">I have read and fully understood the contents of this form and the participant information sheet dated 11 July 2018.</string>
+    <string name="term_2">I agree to take part in this research</string>
+    <string name="term_3">I agree to have my location data collected while I am at the Warren and Mahoney Auckland office from 14 Feb 2019 until 31 Mar 2019</string>
+
+
+
+</resources>

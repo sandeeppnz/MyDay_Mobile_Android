@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773386798938",
+    "firebase_url": "https://locappnz.firebaseio.com",
+    "project_id": "locappnz",
+    "storage_bucket": "locappnz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773386798938:android:02ec057ecbe6bea3",
+        "android_client_info": {
+          "package_name": "csdanz.locapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773386798938-bl8o4g0kv5qgrg8a9grpmsl8ko7rudpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCk5oSRiOuQqur1XNDoYguzB0q1fr5gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

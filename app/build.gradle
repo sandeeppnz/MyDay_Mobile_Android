@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "csdanz.locapp"
         minSdkVersion 15
-        targetSdkVersion 27
+        targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -26,7 +26,13 @@ android {
         exclude 'META-INF/NOTICE'
         exclude 'lib/mips/libmapbox-gl.so'
         exclude 'lib/mips/libexample-custom-layer.so'
+//        exclude 'lib/armeabi/libcpaJNI.so'
+//        exclude 'lib/armeabi/libsqlcipher.so'
     }
+//    compileOptions {
+//        sourceCompatibility JavaVersion.VERSION_1_8
+//        targetCompatibility JavaVersion.VERSION_1_8
+//    }
 }
 
 repositories {
@@ -62,7 +68,10 @@ dependencies {
 
 
     implementation 'io.proximi.proximiiolibrary:proximiiolibrary:2.7.2'
+
     implementation 'io.proximi.proximiiolibrary:proximiiomap:0.4.5'
+    //implementation 'io.proximi.proximiiolibrary:proximiiomap:0.6.0'
+
     implementation 'com.android.support:multidex:1.0.3'
 
     implementation 'com.android.volley:volley:1.1.0'
